@@ -1,4 +1,4 @@
 .idea/*
 __pycache__/*
-threads/*.jpg
-threads/processed/*.jpg
+threads/basics/*.jpg
+threads/basics/processed/*.jpg
